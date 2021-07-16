@@ -4,15 +4,17 @@ void linear_search(int A[],int N,int key);
 int main()
 {
 	int A[1000],key,N,t;
-	scanf("%d",&t);
+	
+	cin>>t;
 	while(t--)
 	{
-		scanf("%d",&N);
+		cin>>N;
 		for(int i=0;i<N;i++)
 		{
-			scanf("%d",&A[i]);
+			cin>>A[i];
 		}
-		scanf("%d",&key);
+		
+		cin>>key;
 		linear_search(A,N,key);
 		
 		
