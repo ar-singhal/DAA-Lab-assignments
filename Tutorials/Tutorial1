@@ -5,9 +5,17 @@ Ans2. O(n) time , O(1) space
 Ans3. O(n) time , O(1) space
 Ans4. O(sqrt(n)) time  , O(1) space
 Ans5. O(logn) time , O(1) space
-Ans6. 
+Ans6. O(2^n) time , O(1) space
 Ans7. O(logn) time , O(1) space
 Ans 8. 
+ 1.O(n)
+ 2.O(n*n)
+ 3.O(logn)
+ 4.O(n)
+ 5.O(2^n)
+ 6.O(3^n)
+ 7.
+ 8.
 
 Ans9. O(n) time , O(1) space
 Ans10. O(N*N) time 
