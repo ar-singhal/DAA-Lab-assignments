@@ -1,0 +1,24 @@
+TUTORIAL sHEET 1
+
+Ans1. O(N+M) time , O(1) space
+Ans2. O(n) time , O(1) space
+Ans3. O(n) time , O(1) space
+Ans4. O(sqrt(n)) time  , O(1) space
+Ans5. O(logn) time , O(1) space
+Ans6. 
+Ans7. O(logn) time , O(1) space
+Ans 8. 
+
+Ans9. O(n) time , O(1) space
+Ans10. O(N*N) time 
+Ans11. O(n*logn) time 
+Ans12. X will always be a better choice for large inputs
+Ans13. O(logn) time
+Ans14. O(n^2.8) time
+Ans15. 
+Ans16. O(2^n)
+Ans17. O(n^2)
+Ans18. 
+Ans19. O(n^2)
+
+
